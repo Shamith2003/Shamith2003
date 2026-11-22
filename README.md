@@ -52,7 +52,7 @@
   <li><strong>Red Hat System Administration I (RH124) &amp; II (RH134)</strong> — Completed</li>
   <li><strong>CCNA (Enterprise Networking, Security, &amp; Automation)</strong> — In Progress</li>
   <li><strong>TryHackMe</strong> — Practical Cybersecurity Labs</li>
-  <li><strong>Platforms:</strong> TryHackMe | Hack The Box | PortSwigger | BLTO </li>
+  <li><strong>Platforms:</strong> TryHackMe | Hack The Box | PortSwigger | BTLO </li>
 </ul>
 
 <hr>
