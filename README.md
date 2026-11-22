@@ -1,23 +1,22 @@
 <p align="center" ><img  src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a3g4bjRucW5jNXo5MTU4dXBtY3N5eGVwbjJsZzF0dHhodjRjbXNpNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Cfiid6I8YDKqrCxAaY/giphy.gif" width = 100px></p>
+<div align="center">
 <h1 align="center">Hi 👋, I'm Shamith Nimhara</h1>
-<h3 align="center">🛡️ Cybersecurity Undergraduate | Aspiring SOC Analyst | Blue Team Enthusiast</h3>
+<h3 align="center">🛡️ Network &amp; Security Undergraduate | Linux &amp; Infrastructure Enthusiast | Blue &amp; Red Team </h3>
+<p>Network Engineering and Cybersecurity undergraduate with hands-on experience in Linux system administration, network infrastructure, security tooling, and both defensive and offensive security labs. Seeking a <strong>internship</strong> in Network Security, Infrastructure / System Administration, or Cybersecurity.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shamith2003&label=Profile%20views&color=0e75b6&style=flat" alt="Shamith2003" /> </p>
+</div>
 
-<table align="center">
-<tr border="none">
-<td width="100%" align="left">
+<hr>
   <h2 align="center">🙋‍♂️ About Me</h2> 
+<ul>
+  <li>🖥️ <strong>Focus areas:</strong> Network architecture &amp; troubleshooting, Linux &amp; Windows server administration, firewall/proxy setups, and security automation</li>
+  <li>🧪 <strong>Practical labs:</strong> Building multi-VM topologies, SIEM monitoring, Active Directory &amp; DNS labs, and practicing on TryHackMe, Hack The Box, and PortSwigger</li>
+  <li>✍️ <strong>Technical writing:</strong> Publishing articles on network security, threat analysis, and security fundamentals</li>
+  <li>🎯 <strong>Goal:</strong> Contributing to real-world infrastructure and security operations through an internship role</li>
+</ul>
+</hr>
 
-- 🔭 **I’m currently working on:** Building a SOC Home Lab using VMware, Ubuntu, Wazuh SIEM, and Windows endpoints.
-- 👯 **I’m looking to collaborate on:** Blue Team projects, SIEM detection rules, and TryHackMe CTF challenges.
-- 🤝 **I’m looking for help with:** Advanced log analysis, Incident Response playbooks, and AWS Cloud Security.
-- 🌱 **I’m currently learning:** Threat Monitoring, Network Traffic Analysis with Wireshark, and Linux administration.
-- 💬 **Ask me about:** Wazuh SIEM setup, TryHackMe walkthroughs, Networking basics, and Defensive Security.
-- ⚡ **Fun fact:** Cybersecurity is 10% watching dashboards and 90% asking "why is this IP from another continent trying to log into my machine?"
 
-</td>
-</tr>
-</table>
 
 <table align="center">
 <tr border="none">
